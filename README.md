@@ -3,3 +3,4 @@
 ### lets learn something
 
 welcome to EC
+License
